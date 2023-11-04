@@ -1,0 +1,2 @@
+# verycurious-front
+MongoDB hackathon
